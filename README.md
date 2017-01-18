@@ -1,1 +1,1 @@
-# docker-fred-simulator
+A docker of FRED simulator from PublicHealthDynamicsLab
