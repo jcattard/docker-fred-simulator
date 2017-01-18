@@ -5,7 +5,7 @@ MAINTAINER jcattard
 RUN apt-get update
 
 # Install software
-RUN apt-get install -y git make build-essential unzip
+RUN apt-get install -y git make build-essential unzip python
 
 RUN useradd -ms /bin/bash -G staff user01
 USER user01
